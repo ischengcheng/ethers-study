@@ -1,0 +1,19 @@
+{
+    "provider": null,
+    "address": "0xE5Ba699df0AfC0c0F61cf5b8d4512A861017e0B5",
+    "publicKey": "0x028707afaa182da3a41dfc06348a24d083bd7e21ef9b320671dcf51259eca2c2ee",
+    "fingerprint": "0xab12e3d7",
+    "parentFingerprint": "0x68abe433",
+    "mnemonic": {
+        "phrase": "medal universe luggage science giraffe goose drink pause mean sauce feature aspect creek clap vacuum topple library wheat vintage list certain century impulse desk",
+        "password": "",
+        "wordlist": {
+            "locale": "en"
+        },
+        "entropy": "0x8a5dba13607622c910c50b89d7f15086b33253bc2729811f3fd0c1325a4adc89"
+    },
+    "chainCode": "0xf4743b94d5c85f6a433ed17b76169cc4552883461d616ee797052aabbb6cc785",
+    "path": "m/44'/60'/0'/0/0",
+    "index": 0,
+    "depth": 5
+}
